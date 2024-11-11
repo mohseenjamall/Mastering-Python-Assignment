@@ -1,2 +1,2 @@
 # Mastering-Python-Assignment
-This Repo is your Assignment for course Mastering Python Osama El-Zero.
+This Repo is for Assignment in the course Mastering Python Osama El-Zero.
