@@ -1,4 +1,4 @@
-#This file for the Assi 26 to 32 in lessons for Mastering Python
+#This file for the Assi 33 to 37 in lessons for Mastering Python
 
 # print(1 == 1) #True
 # print(1 < 2)  #True
